@@ -1,0 +1,19 @@
+sanic
+sanic-openapi
+pytest
+pytest-sanic
+sphinx
+tox
+json-logging-py
+bumpversion
+twine
+coverage==4.5.1
+pytest-cov
+pytest-runner
+gitchangelog
+
+sanic_limiter
+sanicargs
+pymongo
+# google-api-python-client==2.4.0
+# oauth2client==4.1.3
